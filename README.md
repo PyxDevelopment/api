@@ -2,7 +2,7 @@
 Faster and Easier
 
 # ENDPOINTS:
-  `8ball` - Ask a question to the 8ball
+  `8ball` - Ask a question to the 8ball\n
   `animals` - Shares a Random Animal Image of Various Animals
   `base64` - `encode` or `decode` Base64
   `binary` - `encode` or `decode` Binary
